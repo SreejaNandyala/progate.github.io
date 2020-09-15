@@ -2,7 +2,7 @@
   background-color: #FF0040;
   color : white;
   text-align : center;
-  padding : 20px;
+  padding : 20px auto;
   border-bottom : 5px solid white;
 }
 .main {
