@@ -2,9 +2,8 @@
   background-color: #FF0040;
   color : white;
   text-align : center;
-  padding: 20px;
+  padding : 20px;
   border-bottom : 5px solid white;
-  width : 100%;
 }
 .main {
   display : flex;
