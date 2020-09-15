@@ -1,29 +1,28 @@
+.page {
+  background-color : #F7D358;
+}
 .header {
-  background-color:#FF0040;
   color : white;
   text-align : center;
   padding : 35px;
 }
 .main {
   display : flex;
-  background-color: #F7819F;
 }
  .main h2 {
   color :#FF0040;
 }
 .left-section {
-  background-color: #F6CED8;
   padding: 50px 70px 50px 50px;
   margin : 10px 0px;
 }
 .right-section {
-  background-color: #FBEFF2;
+  background-color: #F3E2A9;
   border : 5px,solid,red;
   padding: 100px;
   margin : 10px auto;
 }
 .footer {
-  background-color:#FF0040;
   color : white;
   text-align : center;
   padding : 35px;
